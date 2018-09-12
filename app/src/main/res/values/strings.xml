@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HeroKuApp</string>
+    <string name="name">name</string>
+    <string name="dob">dob</string>
+    <string name="empty_data">Data kosong.</string>
+    <string name="faled_load_data">Gagal mengambil data.</string>
+    <string name="tentang">tentang</string>
+    <string name="description_label">Tentang Aktor</string>
+    <string name="bundle_null">Data tidak ada</string>
+</resources>
